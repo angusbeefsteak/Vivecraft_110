@@ -1,4 +1,5 @@
 searge,name,side,desc
+func_78785_a,render,0,Something that Atticus added
 func_100011_g,getIsPotionDurationMax,0,Get the value of the isPotionDurationMax field.
 func_100012_b,setPotionDurationMax,0,Toggle the isPotionDurationMax field.
 func_100015_a,isKeyDown,0,Returns whether the specified key binding is currently being pressed.
